@@ -1,5 +1,5 @@
-### Привет! Меня зовут Виталий! 👋
-## Я начинающий Frontend Developer =) 
+## Привет! Меня зовут Виталий! 👋
+### Я начинающий Frontend Developer =) 
 
 <!--
 **Klaot/Klaot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
