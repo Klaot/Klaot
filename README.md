@@ -9,10 +9,14 @@
 
 [<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 [<img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram]
+[<img align="left" alt="Telegram" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-hero-fg-dsk-v01.png.original.png" />][linkedin]
+
+
+
 
 [instagram]: https://www.instagram.com/i_am_kovi/
 [telegram]: https://t.me/iamkovi
-
+[linkedin]: https://www.linkedin.com/in/vitaliikotlov/
 
 <br />
 
